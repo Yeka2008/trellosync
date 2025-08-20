@@ -1,0 +1,14 @@
+
+<div class="card m-2" style="min-width: 300px;">
+  <div class="card-header">
+    {{listname}}
+  </div>
+  <div class="card-body">
+    {{#cards}}
+      {{> local_trellosync/card }}
+    {{/cards}}
+    {{^cards}}
+      <p class="text-muted">Sin tarjetas</p>
+    {{/cards}}
+  </div>
+</div>
