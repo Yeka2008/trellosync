@@ -27,8 +27,7 @@
   */
 function local_trellosync_extend_navigation_course($navigation, $course, $context) {
     global $PAGE;
-
-        $navigation->add(
+       $navigation->add(
             get_string('pluginname', 'local_trellosync'),
             new moodle_url('/local/trellosync/trellosync_config.php', ['id' => $course->id]),
             navigation_node::TYPE_SETTING
