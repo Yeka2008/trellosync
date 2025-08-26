@@ -8,7 +8,7 @@ TrelloSync es un plugin de tipo local llamado (/local/trellosync), que puede ser
 - [Instalación del Plugin](*instalación_del_plugin)
 - [Funcionalidades](*funcionalidades)
 - [Configuración credenciales de Trello](*configuración_de_credenciales_de_trello)
-- [Creación de Tareas](*creación_de_tareas)
+- [Creación de Tarjetas](*creación_de_tarjetas)
 - [Actualizar tarjetas](*actualizar_tarjetas)
 - [Eliminar tarjetas](*eliminar_tarjetas)
 - [Documentación Técnica](*documentación_técnica)
