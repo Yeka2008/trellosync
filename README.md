@@ -7,10 +7,10 @@ TrelloSync es un plugin de tipo local llamado (/local/trellosync), que puede ser
 - [Prerequisitos](#prerrequisitos)
 - [Instalación del Plugin](#instalación-del-plugin)
 - [Funcionalidades](#funcionalidades)
-- [Configuración credenciales de Trello](#configuración_de_credenciales-de-trello)
+- [Configuración credenciales de Trello](#configuración-de-credenciales-de-trello)
 - [Creación de Tarjetas](#creación-de-tarjetas)
 - [Actualizar tarjetas](#actualizar-tarjetas)
-- [Eliminar tarjetas](#eliminar-tarjetas)
+- [Eliminar tarjeta](#eliminar-tarjeta)
 
 ## prerrequisitos ##
 
@@ -26,7 +26,7 @@ Para poder hacer uso del plugin, el usuario debe contar con los siguientes requi
 
 - Si aún no tiene sus credenciales de Trello  estas deben ser obtenidas  ingresando al siguiente enlace ir a [Trello A pi Key](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/)
 
-## Instalación ##
+## Instalación del plugin ##
 
 1. El ususario debe estar logueado en la plataforma de moodle y contar con permisos de administrador.
    
@@ -42,7 +42,7 @@ Para poder hacer uso del plugin, el usuario debe contar con los siguientes requi
 - Eliminar tarjetas desde moodle con confirmación.
 
 ## guia de Usuario ##
-### Configuración de Credenciales ##
+### Configuración de Credenciales de Trello ##
 Para la configuración de las credenciales de Trello el usuario debe:
 1. dirigirse a la sección de administracion del curso seleccionar la opcion más y en el menú desplazarse hasta la opción trello Sync. **(Curso > More/mas > Trello Sync)**
 
@@ -59,7 +59,7 @@ Una vez aya guardado las credenciales de Trello(Apikey, token, ID tablero) el us
 
 3. Este formulario debe ser diligenciado en su totalidad, en caso de haber algún espacio sin llenar, arrojará un error. Cuando el formuario este completo de click en el botón crear tarjeta y entonces  podrá ver la nueva tarjeta en la parte inferior del formulario y en la lista que haya seleccionado.
 
-## Actualización de Tarjetas ##
+## Actualizar Tarjetas ##
 
  Debajo del formulario para cración de tarjetas **(Curso > More/mas > Project Trello)** podrá ver las listas con sus respectivas tarjetas y dentro de cada tarjeta encontrará un botón actualizar.
 
